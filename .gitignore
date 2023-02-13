@@ -1,0 +1,10 @@
+# Libraries
+gocc/src/github.com/
+gocc/src/golang.org/
+gocc/src/google.golang.org/
+*.a
+
+# Binaries
+bin/
+
+.vagrant/
